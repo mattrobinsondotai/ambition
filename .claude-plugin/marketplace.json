@@ -1,0 +1,14 @@
+{
+  "name": "ambition",
+  "description": "The ambition skill for Claude Code.",
+  "owner": {
+    "name": "Matt Robinson"
+  },
+  "plugins": [
+    {
+      "name": "ambition",
+      "source": "./",
+      "description": "Lifts the ambition of any task before doing it."
+    }
+  ]
+}

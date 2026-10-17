@@ -1,0 +1,10 @@
+{
+  "name": "ambition",
+  "version": "1.0.0",
+  "description": "Lifts the ambition of any task before doing it: Speed, Altitude, Depth and Range lenses, checked against what matters to you, with a fresh-context review.",
+  "author": { "name": "Matt Robinson", "url": "https://mattrobinson.ai" },
+  "homepage": "https://github.com/mattrobinsondotai/ambition",
+  "repository": "https://github.com/mattrobinsondotai/ambition",
+  "license": "MIT",
+  "keywords": ["ambition", "planning", "skills", "agents"]
+}
